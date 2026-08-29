@@ -1,7 +1,7 @@
 # HTML Advanced
 
-This project is the first step in building a webpage from a designer file using only semantic HTML.
-The goal is to understand how to structure a modern webpage correctly without using CSS, JavaScript, or inline styles.
+This project is the first step in building a webpage from a designer file using only semantic HTML.  
+The goal is to understand how to structure a modern webpage correctly without using CSS, JavaScript, or inline styles.  
 The project focuses on creating a clean, accessible, and meaningful HTML structure based on the provided Figma design.
 
 ## Design
@@ -12,9 +12,9 @@ The webpage is based on the following Figma design:
 
 ## Technologies
 
-* HTML5
-* Semantic HTML
-* Figma design reference
+- HTML5
+- Semantic HTML
+- Figma design reference
 
 ## Project Structure
 
@@ -22,8 +22,4 @@ The webpage is based on the following Figma design:
 html_advanced/
 └── task_0/
     └── README.md
-```
-
-## Objective
-
-The main objective of this project is to reproduce the structure of the provided design using pure HTML. No CSS or styling should be used at this stage.
+    
